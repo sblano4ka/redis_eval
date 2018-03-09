@@ -1,7 +1,7 @@
-package net.mensemedia.redis.client;
+package net.lano4ka.redis.client;
 
-import net.mensemedia.redis.dto.Topic;
-import net.mensemedia.redis.dto.TopicTranslation;
+import net.lano4ka.redis.dto.TopicTranslation;
+import net.lano4ka.redis.dto.Topic;
 import org.redisson.Redisson;
 import org.redisson.api.*;
 

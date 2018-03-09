@@ -1,11 +1,11 @@
-package net.mensemedia.redis;
+package net.lano4ka.redis;
 
-import net.mensemedia.redis.client.Client;
-import net.mensemedia.redis.client.JedisConnectionHolder;
-import net.mensemedia.redis.client.RedissonConnectionHolder;
-import net.mensemedia.redis.dto.Topic;
-import net.mensemedia.redis.dto.TopicTranslation;
-import net.mensemedia.redis.parser.MkpDataTsvParser;
+import net.lano4ka.redis.client.RedissonConnectionHolder;
+import net.lano4ka.redis.dto.TopicTranslation;
+import net.lano4ka.redis.parser.MkpDataTsvParser;
+import net.lano4ka.redis.client.Client;
+import net.lano4ka.redis.client.JedisConnectionHolder;
+import net.lano4ka.redis.dto.Topic;
 
 import java.io.File;
 import java.io.FileInputStream;

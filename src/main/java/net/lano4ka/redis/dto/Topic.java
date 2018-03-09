@@ -1,4 +1,4 @@
-package net.mensemedia.redis.dto;
+package net.lano4ka.redis.dto;
 
 import org.apache.commons.lang3.StringUtils;
 import java.util.List;

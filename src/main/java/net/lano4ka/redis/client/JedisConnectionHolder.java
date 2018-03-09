@@ -1,8 +1,8 @@
-package net.mensemedia.redis.client;
+package net.lano4ka.redis.client;
 
 import com.google.gson.Gson;
-import net.mensemedia.redis.dto.Topic;
-import net.mensemedia.redis.dto.TopicTranslation;
+import net.lano4ka.redis.dto.TopicTranslation;
+import net.lano4ka.redis.dto.Topic;
 import redis.clients.jedis.Jedis;
 import redis.clients.jedis.JedisPubSub;
 import redis.clients.jedis.Transaction;

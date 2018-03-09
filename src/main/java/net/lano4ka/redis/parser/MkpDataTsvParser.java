@@ -1,7 +1,7 @@
-package net.mensemedia.redis.parser;
+package net.lano4ka.redis.parser;
 
-import net.mensemedia.redis.dto.Topic;
-import net.mensemedia.redis.dto.TopicTranslation;
+import net.lano4ka.redis.dto.TopicTranslation;
+import net.lano4ka.redis.dto.Topic;
 import org.apache.commons.csv.CSVFormat;
 import org.apache.commons.csv.CSVParser;
 import org.apache.commons.csv.CSVRecord;

@@ -1,4 +1,4 @@
-package net.mensemedia.redis;
+package net.lano4ka.redis;
 
 import java.io.FileNotFoundException;
 

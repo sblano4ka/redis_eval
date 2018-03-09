@@ -1,4 +1,4 @@
-package net.mensemedia.redis.dto;
+package net.lano4ka.redis.dto;
 
 public class TopicTranslation {
     private String content;
